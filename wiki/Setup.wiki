@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary 界面设置教程 (Setup)
 
 = Introduction =
 
