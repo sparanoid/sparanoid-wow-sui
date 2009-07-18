@@ -1,5 +1,4 @@
 #summary Sparanoid's UI 常见问题解答 (FAQ)
-#labels Phase-Support
 
 = 常见问题解答 (FAQ) =
 
