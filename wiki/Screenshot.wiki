@@ -20,7 +20,7 @@
 收信，背包，物品信息 (Inbox, inventory, item information)
 [http://sparanoid.googlecode.com/svn/trunk/screenshot/WoWScrnShot_060609_202411.jpg http://sparanoid.googlecode.com/svn/trunk/screenshot/WoWScrnShot_060609_202411_small.jpg]
 
-= Details =
+= 详细信息 (Details) =
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
