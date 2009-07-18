@@ -3,21 +3,27 @@
 = 截图展示 (Screenshot) =
 
 标准界面 (Normal)
+
 [http://sparanoid.googlecode.com/svn/trunk/screenshot/WoWScrnShot_060609_233739.jpg http://sparanoid.googlecode.com/svn/trunk/screenshot/WoWScrnShot_060609_233739_small.jpg]
 
 标准界面，单排动作条 (Normal, action bar in single line)
+
 [http://sparanoid.googlecode.com/svn/trunk/screenshot/WoWScrnShot_060609_235356.jpg http://sparanoid.googlecode.com/svn/trunk/screenshot/WoWScrnShot_060609_235356_small.jpg]
 
 战斗场面 (Combat)
+
 [http://sparanoid.googlecode.com/svn/trunk/screenshot/WoWScrnShot_052609_165944.jpg http://sparanoid.googlecode.com/svn/trunk/screenshot/WoWScrnShot_052609_165944_small.jpg]
 
 战斗场面，姓名板 (Combat, with nameplate)
+
 [http://sparanoid.googlecode.com/svn/trunk/screenshot/WoWScrnShot_060209_195949.jpg http://sparanoid.googlecode.com/svn/trunk/screenshot/WoWScrnShot_060209_195949_small.jpg]
 
 升级 (Leveling)
+
 [http://sparanoid.googlecode.com/svn/trunk/screenshot/WoWScrnShot_053009_214032.jpg http://sparanoid.googlecode.com/svn/trunk/screenshot/WoWScrnShot_053009_214032_small.jpg]
 
 收信，背包，物品信息 (Inbox, inventory, item information)
+
 [http://sparanoid.googlecode.com/svn/trunk/screenshot/WoWScrnShot_060609_202411.jpg http://sparanoid.googlecode.com/svn/trunk/screenshot/WoWScrnShot_060609_202411_small.jpg]
 
 = 详细信息 (Details) =
