@@ -1,6 +1,6 @@
 #summary Sparanoid's UI 中所使用的插件列表 (Addon List)
 
-= Introduction =
+= 插件列表 (Addon List) =
 
 Add your content here.
 
