@@ -1,6 +1,6 @@
 #summary Sparanoid's UI 界面设置教程 (Setup)
 
-= Introduction =
+= 界面设置教程 (Setup) =
 
 Add your content here.
 
