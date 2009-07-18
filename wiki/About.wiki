@@ -1,4 +1,5 @@
 #summary Sparanoid's UI 关于页面 (About)
+#labels Featured
 
 = 介绍 (Introduction) =
 
