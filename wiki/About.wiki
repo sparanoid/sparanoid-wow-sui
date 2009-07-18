@@ -9,7 +9,7 @@ Sparanoid's UI，简称 SUI，是一款免费、自由的插件集合，它拥�
   * 插件大部分通过 SVN、Git 直接获取，保证插件最新
   * 保证插件的原版：重新打包的插件全部未经修改
   * 每日 3~5 小时 Debug 时间，保证插件稳定
-  * 插件下载通过 Google Code 发布，快速稳定
+  * 插件下载通过 [http://code.google.com/p/sparanoid/ Google Code] 发布，快速稳定
   * 将来会提供自定义的插件配置下载 (WFT 配置文件)
 
 
