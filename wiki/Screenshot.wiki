@@ -11,7 +11,7 @@
 战斗场面 (Combat)
 [http://sparanoid.googlecode.com/svn/trunk/screenshot/WoWScrnShot_052609_165944.jpg http://sparanoid.googlecode.com/svn/trunk/screenshot/WoWScrnShot_052609_165944_small.jpg]
 
-战斗场面 (Combat)
+战斗场面，姓名板 (Combat, with nameplate)
 [http://sparanoid.googlecode.com/svn/trunk/screenshot/WoWScrnShot_060209_195949.jpg http://sparanoid.googlecode.com/svn/trunk/screenshot/WoWScrnShot_060209_195949_small.jpg]
 
 升级 (Leveling)
