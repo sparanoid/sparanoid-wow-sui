@@ -1,4 +1,4 @@
-#summary 界面设置教程 (Setup)
+#summary Sparanoid's UI 界面设置教程 (Setup)
 
 = Introduction =
 
