@@ -1,4 +1,5 @@
 #summary Sparanoid's UI 中所使用的插件列表 (Addon List)
+#labels Featured
 
 = 插件列表 (Addon List) =
 
