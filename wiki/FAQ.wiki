@@ -1,6 +1,6 @@
 #summary Sparanoid's UI 常见问题解答 (FAQ)
 
-= Introduction =
+= 常见问题解答 (FAQ) =
 
 Add your content here.
 
