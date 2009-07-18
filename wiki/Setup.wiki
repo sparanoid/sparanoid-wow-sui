@@ -1,4 +1,5 @@
 #summary Sparanoid's UI 界面设置教程 (Setup)
+#labels Phase-Deploy
 
 = 界面设置教程 (Setup) =
 
