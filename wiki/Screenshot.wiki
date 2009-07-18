@@ -4,8 +4,7 @@
 
 Add your content here.
 
-http://sparanoid.googlecode.com/svn/trunk/screenshot/WoWScrnShot_060609_202411.jpg
-[http://sparanoid.googlecode.com/svn/trunk/ http://sparanoid.googlecode.com/svn/trunk/screenshot/WoWScrnShot_060609_202411.jpg]
+[http://sparanoid.googlecode.com/svn/trunk/screenshot/WoWScrnShot_060209_195949.jpg http://sparanoid.googlecode.com/svn/trunk/screenshot/WoWScrnShot_060609_202411.jpg]
 
 = Details =
 
