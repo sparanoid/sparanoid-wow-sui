@@ -1,6 +1,6 @@
 #summary Sparanoid's UI 关于页面 (About)
 
-= Introduction =
+= 介绍 (Introduction) =
 
 Add your content here.
 
