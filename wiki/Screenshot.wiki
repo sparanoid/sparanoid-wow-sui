@@ -1,4 +1,5 @@
 #summary Sparanoid's UI 界面截图预览 (Screenshot)
+#labels Featured
 
 = 截图展示 (Screenshot) =
 
