@@ -2,7 +2,7 @@
 
 = 介绍 (Introduction) =
 
-Sparanoid's UI，简称 SUI 是一款免费自由的插件集合，它拥有如下特征：
+Sparanoid's UI，简称 SUI，是一款免费、自由的插件集合，它拥有如下特征：
 
   * SUI 致力于为 中、高端玩家 提供功能全面的插件集合
   * 组件全部从 [http://www.wowinterface.com/ WoWInterface]、[http://www.curseforge.com/ CurseForge]、[http://www.wowace.com/ WowAce] 等知名站点下载，保证安全性
