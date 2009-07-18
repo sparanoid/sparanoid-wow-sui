@@ -1,4 +1,4 @@
-#summary Screenshot preview for Sparanoid's UI
+#summary Sparanoid's UI 界面截图预览 (Screenshot)
 
 = Introduction =
 
