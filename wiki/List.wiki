@@ -5,13 +5,12 @@
 
   * _Corpse
   * _NPCScan
+  * ACP
   * AddonLoader
+  * AHsearch
+  * Align
+  * AltTabber
   * Ara_Broker_Tradeskills
-  * Atlas
-   * Atlas_Battlegrounds
-   * Atlas_DungeonLocs
-   * Atlas_OutdoorRaids
-   * Atlas_Transportation
   * AtlasLoot
    * AtlasLoot_BurningCrusade
    * AtlasLoot_Crafting
@@ -77,7 +76,7 @@
    * DBM-ZulAman
   * Decursive
   * DockingStation
-   * DockingStation_Config
+  * DockingStation_Config
   * Dolemite
   * Dominos
    * Dominos_Cast
@@ -124,10 +123,10 @@
   * Omen
   * oMirrorBars
   * oUF
-  * oUF_DebuffHighlight
-  * oUF_Experience
-  * oUF_P3lim
-  * oUF_Perfect
+   * oUF_DebuffHighlight
+   * oUF_Experience
+   * oUF_P3lim
+   * oUF_Perfect
   * Outfitter
   * Overachiever
    * Overachiever_Tabs
