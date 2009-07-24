@@ -3,7 +3,9 @@
 
 = 界面设置教程 (Setup) =
 
-Add your content here.
+不可以同时开启的插件：
+
+按职业加载的插件：
 
 
 = 详细信息 (Details) =
