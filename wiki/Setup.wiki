@@ -4,9 +4,11 @@
 = 界面设置教程 (Setup) =
 
 不可以同时开启的插件：
+ * oUF_Perfect 与 Grid
 
 按职业加载的插件：
-
+ * CallOfElements - 萨满图腾助手
+ * oUF_RuneBar - 死亡骑士的符文监视
 
 = 详细信息 (Details) =
 
