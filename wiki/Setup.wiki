@@ -1,6 +1,13 @@
 #summary Sparanoid's UI 界面设置教程 (Setup)
 #labels Featured
 
+= 如何更新 (How to Update SUI) =
+
+如果本插件集合更新了，该如何升级我现有的插件包？
+  * 先去下载好最新版
+  * 删除魔兽世界安装目录下 Interface\* 内的所有文件（可自行备份）
+  * 解压压缩缩包内文件到该目录
+
 = 界面设置教程 (Setup) =
 
 *加载界面时切记勾选“加载过期插件”，并不是插件与最新版本不支持，是有些插件作者实在是太懒，懒到 toc 都不去更新*
@@ -21,10 +28,3 @@
 (这里只是将其列出，有的插件会对当前职业进行判断而选择是否激活，有些则不会，需要手动禁用)
  * CallOfElements - 萨满图腾助手 (非萨满职业须手动禁用)
  * oUF_RuneBar - 死亡骑士的符文监视
-
-= 详细信息 (Details) =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
