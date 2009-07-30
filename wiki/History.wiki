@@ -2,6 +2,16 @@
 
 = 版本历史 (History) =
 
+== 1.04 ==
+ * 更新插件：
+  * Chatter
+  * Gladius
+  * oUF_P3lim
+  * Carbonite
+  * Portfolio
+ * 新增插件：
+  * oUF_TotemBar
+ * 修正 Chatter 无法显示其它频道的错误
 == 1.03 ==
  * 更细大部分 3.0.5 版本中使用的插件，使之兼容 3.1.3
 
