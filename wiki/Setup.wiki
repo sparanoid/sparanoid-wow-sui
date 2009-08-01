@@ -24,6 +24,12 @@
  * /gladius 显示详细命令
  * /gladius test 切换测试模式
 
+*其它需要特殊设置的插件*
+ * /smartmount 设置坐骑
+ * /bigred 修改错误信息位置
+ * 修改 Omen 的位置
+ * SexyMap 的位置
+
 *不建议同时激活的插件：*
 (只是不建议同时使用，因为会造成功能上的重复)
  * oUF_Perfect 与 Grid
