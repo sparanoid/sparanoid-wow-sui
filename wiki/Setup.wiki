@@ -16,7 +16,7 @@
  * /align 使用此命令切换网格，方便插件对齐
 
 *信息条 DockingStation 的设置*
- * DockingStation 默认为禁用，第一次使用本插件时须手动开启下列插件：
+ * DockingStation 默认为*禁用*，第一次使用本插件时须*手动开启下列插件*：
   * DockingStation - 主程序
   * DockingStation_Config - 插件设置
 
