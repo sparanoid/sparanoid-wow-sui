@@ -34,9 +34,11 @@
  * Bagnon_Tooltips
  * BankStack
  * BaudAuction
+ * BetterStopwatch
  * BigRed
  * Bison
  * Blizzard_ArenaUI
+ * Blizzard_DebugTools
  * Blizzard_GMChatUI
  * Broker_CPU
  * Broker_Factions
@@ -50,7 +52,6 @@
  * CarboniteNodes
  * CarboniteTransfer
  * ccSpeed
- * ChatBar
  * ChatGuard
  * ChatIcons
  * Chatter
@@ -61,6 +62,7 @@
  * DBM-BlackTemple
  * DBM-BurningCrusade
  * DBM-ChamberOfAspects
+ * DBM-Coliseum
  * DBM-Core
  * DBM-EyeOfEternity
  * DBM-GUI
@@ -84,9 +86,11 @@
  * Dominos_Cast
  * Dominos_Config
  * Dominos_Roll
+ * Dominos_Totems
  * Dominos_XP
  * DurabilityStatus
  * EasyTrinket
+ * Eggsactly
  * EnhancedCharStats
  * Examiner
  * Fatality
@@ -106,7 +110,6 @@
  * Grid
  * Guild2Guild
  * HatTrick
- * IgnoreMore
  * IgorsMassAuction
  * ImprovedMerchant
  * InFlight
@@ -114,7 +117,6 @@
  * JPack
  * JPack_Broker
  * JPack_Ex
- * LiteLFG
  * MailNotifier
  * MasterLoot
  * Mendeleev
@@ -146,12 +148,14 @@
  * RollTracker
  * SellFish
  * SexyMap
- * sienasGemViewer
  * SmartMount
  * SpellAlerter
  * StealYourCarbon
  * SwindlerPreventer
  * Tabard-o-matic
+ * Talented
+ * Talented_GlyphFrame
+ * Talented_SpecTabs
  * tekAccept
  * tekJunkSeller
  * tekKompare
