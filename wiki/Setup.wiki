@@ -57,28 +57,30 @@
  * 使用 /align 开启/关闭网格，无需设置
 
 ==AltTabber==
+当 RL 执行就位确认时播放震耳欲聋的噪音，当然只有你在 alt+tab 切出游戏画面时才会这样
+ * 无设置
+
 ==Ara_Broker_Tradeskills==
+一款商业技能的信息插件
+ * 使用信息条的配置文件后，会默认出现在信息条中
+
 ==AtlasLoot==
-==AtlasLoot_BurningCrusade==
-==AtlasLoot_Crafting==
-==AtlasLoot_OriginalWoW==
-==AtlasLoot_WorldEvents==
-==AtlasLoot_WrathoftheLichKing==
-==AtlasLootFu==
+耳熟能详的物品查看插件
+ * 使用信息条的配置文件后，会默认出现在信息条中
+ * 按键绑定界面中可以绑定快捷键
+
 ==AuctionLite==
+一款拍卖行搜索/拍卖增强
+ * 在插件标签中有设置
+ * 可以选择在鼠标提示中是否显示商店售价（建议关闭）
+
 ==AuldLangSyne==
-==AuldLangSyne_Backup==
-==AuldLangSyne_FriendList==
-==AuldLangSyne_Fu==
-==AuldLangSyne_GuildList==
-==AuldLangSyne_Info==
-==AuldLangSyne_Note==
-==AuldLangSyne_Panel==
-==AuldLangSyne_Sync==
+好友界面增强插件
+ *
 ==Bagnon==
-==Bagnon_Config==
-==Bagnon_Forever==
-==Bagnon_Tooltips==
+背包整合插件
+
+
 ==BankStack==
 ==BaudAuction==
 ==BetterStopwatch==
