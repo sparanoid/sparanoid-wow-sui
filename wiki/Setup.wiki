@@ -24,6 +24,9 @@
  * /gladius 显示详细命令
  * /gladius test 切换测试模式
 
+*oUF_Experience*
+ * 是一个显示经验条的小插件，在满级后可以禁用它
+
 *其它需要特殊设置的插件*
  * /smartmount 设置坐骑
  * /bigred 修改错误信息位置
