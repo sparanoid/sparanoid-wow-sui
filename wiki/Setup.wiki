@@ -1,12 +1,11 @@
 #summary Sparanoid's UI 界面设置教程 (Setup)
 #labels Featured
 
-= 如何安装 (How to Install SUI) =
+= 如何安装 (How to Install) =
 
-如果本插件集合更新了，该如何升级我现有的插件包？
-  * 先去下载好最新版
-  * 删除魔兽世界安装目录下 Interface\* 内的所有文件（可自行备份）
-  * 解压压缩缩包内文件到该目录
+ * 先备份两个文件夹 Interface 与 WTF
+ * 从 [http://code.google.com/p/sparanoid/ 插件首页] 下载最新的插件包
+ * 使用 [http://7z.sparanoid.com 7-Zip] 或 WinRAR 打开此压缩包，将 Interface 文件夹解压到你的 WoW 安装目录中
 
 = 如何更新 (How to Update) =
 
