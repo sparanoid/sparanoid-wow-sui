@@ -499,24 +499,3 @@ roll 点框体美化/增强
 ==WhoWhisperedMe==
 有人密语时自动执行查询命令（/who 密语人名字）
  * 无设置
-
-*插件定位/位置调整*
- * /align 使用此命令切换网格，方便插件对齐
-
-*信息条 DockingStation 的设置*
- * DockingStation 默认为*禁用*，第一次使用本插件时须*手动开启下列插件：
-  * DockingStation - 主程序
-  * DockingStation_Config - 插件设置
-
-*竞技场插件 Gladius 插件设置*
- * /gladius 显示详细命令
- * /gladius test 切换测试模式
-
-*oUF_Experience*
- * 是一个显示经验条的小插件，在满级后可以禁用它
-
-*其它需要特殊设置的插件*
- * /smartmount 设置坐骑
- * /bigred 修改错误信息位置
- * 修改 Omen 的位置
- * SexyMap 的位置
