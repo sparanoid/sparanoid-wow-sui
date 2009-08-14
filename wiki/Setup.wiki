@@ -1,9 +1,6 @@
 #summary Sparanoid's UI 界面设置教程 (Setup)
 #labels Featured
 
-
-#sidebar   * [Articles HOWTO articles]
-
 = 如何安装 (How to Install SUI) =
  * 先备份 Interface 文件夹
  * 从 [http://sparanoid.com/sui/ 插件首页] 下载最新的插件包
