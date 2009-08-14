@@ -270,7 +270,7 @@ FuBar 姓名切换插件，已使用 FuBar2Broker 插件整合到 Broker 模块�
 
 ==GreedBeacon==
 简化掷骰子的聊天窗口提示，防止掷骰子时刷屏（就是简化掉“薇薇对[猪菌的头颅]选择贪婪需求”这些信息）
- * 无设置，不喜禁掉
+ * 无设置，不喜请禁用
 
 ==Grid==
 团队窗体插件
@@ -376,33 +376,101 @@ oUF 的萨满图腾模块
  * 插件可以在人物窗口的左上角找到（设置也在里面）
 
 ==Overachiever==
-==Overachiever_Tabs==
-==Overachiever_Trade==
+成就党专用插件，成就界面增强，鼠标提示未完成成就
+ * 在插件标签中有详细设置
+
 ==PanoShot==
+全景截图插件
+ * 使用斜杠命令 /panoshot 即可环绕一周截图
+ * 无设置
+
 ==PartysOver==
+隐藏默认的小队框体（由于使用了 Grid）
+ * 不喜请禁用
+
 ==Portfolio==
+界面选项增强的库文件，多款插件调用，勿动
+ * 无设置
+
 ==Postal==
+邮件窗口增强，一键收信，支持鼠标滚轮
+ * 在邮件窗口中设置
+
 ==RangeColors==
+使动作条上超出范围的变红，没蓝/能量/怒气的变蓝，不可用的变黑
+ * 具体颜色可在插件标签中更改
+
 ==Receipt==
+显示你在邮箱、拍卖行、商人等处的金币流动情况
+ * 无设置
+
 ==Recount==
+伤害统计
+ * 使用斜杠命令 /recount toggle 切换窗口
+
 ==ResetEcho==
+在小队中通知副本重置信息
+ * 无设置
+
 ==RollTracker==
+在独立的窗口中记录 roll 点信息
+ * 无设置
+
 ==SellFish==
+显示物品在商人处的售价
+ * 使用 /sf 斜杠命令显示帮助信息，/sf style 在不同显示样式之间进行切换
+
 ==SexyMap==
+小地图增强
+ * 建议使用插件集合中自带的 SexyMap 插件配置文件
+ * 默认配置下右键点击小地图即可打开设置
+ * 插件标签中同样可以打开设置
+
 ==SmartMount==
+一键坐骑，自动判断可否使用飞行坐骑
+ * 使用斜杠命令 /smartmount 打开配置
+
 ==SpellAlerter==
+著名萨满的敌方法术提醒
+ * 使用信息条的配置文件后，默认会出现在信息条左侧
+
 ==StealYourCarbon==
+在商人处快速购买指定物品
+ * 在插件标签中添加需要快速购买的物品
+
 ==SwindlerPreventer==
+配方、物品等来源插件，防奸商专用
+ * 在插件标签中进行设置
+
 ==Tabard-o-matic==
+战袍预览插件，将各式战袍的预览效果直接应用到图标上
+ * 无设置
+
 ==Talented==
-==Talented_GlyphFrame==
-==Talented_SpecTabs==
-==tekAccept==
+天赋面板增强插件
+ * 在天赋面板中进行设置
+
 ==tekJunkSeller==
+与商人对话时自动出售灰色物品
+ * 无设置
+
 ==tekKompare==
+装备对比插件，鼠标划过一件装备时自动对比身上的装备
+ * 无设置
+
 ==teksLoot==
+roll 点框体美化/增强
+ * 使用斜杠命令 /teksloot 修改位置
+
 ==TinyTipWealth==
+鼠标提示中显示某玩家金币资产的邪恶插件
+ * 在插件标签中有详细设置
+
 ==TipTac==
+鼠标提示增强
+ * 建议使用插件集合中自带的 TipTac 插件配置文件
+ * 使用斜杠命令 /tip 进行设置
+
 ==TipTacItemRef==
 ==TipTacOptions==
 ==TipTacTalents==
