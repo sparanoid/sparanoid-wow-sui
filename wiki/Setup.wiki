@@ -165,7 +165,7 @@ Broker 移动速度模块
  * 在 P（魔法书）最下方标签中进行设置
 
 ==CloseUp==
-试穿窗口增强，提供缩放，武器附魔试用，任意模型试穿的功能
+试穿窗口增强，提供缩放，任意模型试穿的功能
  * 无设置
 
 ==DamnAchievementSpam==
@@ -254,23 +254,64 @@ FuBar 姓名切换插件，已使用 FuBar2Broker 插件整合到 Broker 模块�
 
 ==Gladius==
 竞技场头像插件
+ * /gladius 显示详细命令
+ * /gladius test 切换测试模式 
 
 ==GlowFoSho==
+在试衣间窗口中增加武器附魔试穿的功能
+ * 无设置
+
 ==GoldenTicket==
+将向 GM 发送信息的按钮从 Buff 条上方移动到信息条中的插件
+ * 使用信息条的配置文件后，默认会出现在信息条左侧
+
 ==Gossipmonger==
+与 NPC 对话增强插件，略过了一些 NPC 没用的 blah blah
+
 ==GreedBeacon==
+简化掷骰子的聊天窗口提示，防止掷骰子时刷屏（就是简化掉“薇薇对[猪菌的头颅]选择贪婪需求”这些信息）
+ * 无设置，不喜禁掉
+
 ==Grid==
+团队窗体插件
+ * 使用斜杠命令 /grid 进行设置
+
 ==Guild2Guild==
+用于多个工会之间交流的插件
+ * 使用 /g2g 进行设置
+ * A 工会与 B 工会必须同时、至少有一人安装此插件
+
 ==HatTrick==
+在人物窗口中直接切换是否显示头盔与披风
+ * 无设置
+
 ==IgorsMassAuction==
+批量拍卖插件
+ * 友情提示，注意看好应用物品的数量，12G/组的强位卖出去了可别怪我
+ * 无设置
+
 ==ImprovedMerchant==
+商人购买增强，改成列表显示，纯美观
+ * 无设置
+
 ==InFlight==
-==InFlight_Load==
+显示飞行时间的插件
+ * 一般在飞行的时候可以右键点击时间条进行设置
+ * 该插件仅有美服客户端的飞行时间记录
+ * 台服客户端的话需要飞行一遍才能知道 A 地到 B 地的时间
+
 ==JPack==
-==JPack_Broker==
-==JPack_Ex==
+背包整理，按钮已整合到了 Bagnon 中
+ * 无需设置
+
 ==MailNotifier==
+小地图上的未读邮件增强，可以估计未读邮件数量
+ * 无设置
+
 ==MasterLoot==
+团长分配插件，按职业着色、按职业分类、随即分配、快速分配给自己
+ * 无设置
+
 ==Mendeleev==
 ==MikScrollingBattleText==
 ==MSBTOptions==
