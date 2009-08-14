@@ -1,7 +1,7 @@
 #summary Sparanoid's UI 界面设置教程 (Setup)
 #labels Featured
 
-<wiki:toc max_depth="1" />
+<wiki:toc max_depth="3" />
 
 = 如何安装 (How to Install SUI) =
  * 先备份 Interface 文件夹
