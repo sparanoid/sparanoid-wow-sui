@@ -76,7 +76,7 @@
 
 ==AuldLangSyne==
 好友界面增强插件
- * 在信息条右侧有设置按钮，默认配置不需过多修改
+ * 使用信息条的配置文件后，会默认出现在信息条右侧，默认配置不需过多修改
 
 ==Bagnon==
 背包/银行/钥匙整合插件
@@ -88,15 +88,34 @@
  * 
 
 ==BaudAuction==
+一款拍卖行增强插件，一页显示完所有搜索结果，按竞拍单价排序
+ * 无设置
+
 ==BetterStopwatch==
+秒表增强
+ * 无设置
+
 ==BigRed==
+错误信息修改，例如“距离太远”
+ * 使用斜杠命令 /bigred 进行配置，修改位置、字体大小、显示行数等等
+
 ==Bison==
-==Blizzard_ArenaUI==
-==Blizzard_DebugTools==
-==Blizzard_GMChatUI==
+Buff 条皮肤/位置修改，让 Buff/Debuff 支持 ButtonFacade 皮肤，并且分离武器附魔增益
+ * 在插件标签中有设置，可以解除锁定修改位置
+
 ==Broker_CPU==
+Broker 的内存占用、延迟等信息模块
+ * 使用信息条的配置文件后，默认会出现在信息条右侧，无需过多配置
+
 ==Broker_Factions==
+Broker 的声望统计模块
+ * 使用信息条的配置文件后，默认会出现在信息条中间
+ * 在界面标签中有该插件的详细设置
+
 ==Broker_RaidSave==
+Broker 副本进度模块
+ * 使用信息条的配置文件后，默认会出现在信息条左侧
+
 ==Broker_uClock==
 ==Butsu==
 ==ButtonFacade==
