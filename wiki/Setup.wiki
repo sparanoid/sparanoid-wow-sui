@@ -342,6 +342,7 @@ FuBar 姓名切换插件，已使用 FuBar2Broker 插件整合到 Broker 模块�
 ==Omen==
 仇恨统计插件
  * 建议使用插件集合中自带的 Omen 插件配置文件
+ * 使用斜杠命令 /omen toggle 切换是否显示 Omen 界面
  * 在插件标签下有详细设置
 
 ==oMirrorBars==
