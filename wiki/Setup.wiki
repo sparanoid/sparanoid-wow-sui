@@ -144,39 +144,51 @@ ButtonFacade 的一款皮肤
  * 按 M 打开地图，右键点击任意区域选 Options 进入设置
  * 第一次使用此插件包时建议不选择将 Carbonite 注入小地图，否则 SexyMap 无效
 
-==CarboniteNodes==
-==CarboniteTransfer==
 ==ccSpeed==
+Broker 移动速度模块
+ * 使用信息条的配置文件后，默认会出现在信息条右侧
+ * 无设置
+
 ==ChatGuard==
+重复信息过滤，暂时不可用
+
 ==ChatIcons==
+在聊天窗口中显示物品、技能、成就、职业的图标
+ * 在插件标签中用详细设置
+
 ==Chatter==
+聊天窗口增强
+ * 右键点击聊天标签选择 Chatter 即可进入设置界面
+
 ==Clique==
+鼠标流插件，人人皆知
+ * 在 P（魔法书）最下方标签中进行设置
+
 ==CloseUp==
+试穿窗口增强，提供缩放，武器附魔试用，任意模型试穿的功能
+ * 无设置
+
 ==DamnAchievementSpam==
-==DBM-Battlegrounds==
-==DBM-BlackTemple==
-==DBM-BurningCrusade==
-==DBM-ChamberOfAspects==
-==DBM-Coliseum==
+将成就信息整合成一条
+ * 无设置
+
 ==DBM-Core==
-==DBM-EyeOfEternity==
-==DBM-GUI==
-==DBM-Hyjal==
-==DBM-Karazhan==
-==DBM-LDB==
-==DBM-Naxx==
-==DBM-Outlands==
-==DBM-Party-WotLK==
-==DBM-Serpentshrine==
-==DBM-Sunwell==
-==DBM-TheEye==
-==DBM-Ulduar==
-==DBM-VictorySound==
-==DBM-ZulAman==
+Deadly Boss Mod，战场计时、Raid 计时插件
+ * 使用信息条的配置文件后，在信息条右侧会有设置按钮
+
 ==Decursive==
+一键驱散插件
+ * 使用信息条的配置文件后，在信息条右侧会有设置按钮
+
 ==DockingStation==
-==DockingStation_Config==
+信息条插件
+ * 建议试用本插件集合的信息条配置文件，会免去一些反锁的设置
+ * 在信息条最右侧与插件标签中均有设置
+
 ==Dolemite==
+快速分解插件，按住 alt 键同时鼠标左键点击要分解的物品即可分解之
+ * 无设置，不喜欢此功能的请禁用此插件
+
 ==Dominos==
 ==Dominos_Cast==
 ==Dominos_Config==
