@@ -1,13 +1,7 @@
 #summary Sparanoid's UI 界面设置教程 (Setup)
 #labels Featured
-  * [Articles HOWTO articles]
-    * [ArticlesXSS Web security]
-    * [ArticlesDom DOM manipulation]
-    * [ArticlesStyle CSS and style]
-    * [ArticlesTips Tips and tricks]
-  * [DOMReference DOM reference]
-  * [HTMLElements HTML reference]
-  * [CSSReference CSS reference]
+#sidebar TableOfContents
+
 = 如何安装 (How to Install SUI) =
  * 先备份 Interface 文件夹
  * 从 [http://sparanoid.com/sui/ 插件首页] 下载最新的插件包
