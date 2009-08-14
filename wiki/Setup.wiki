@@ -117,11 +117,33 @@ Broker 副本进度模块
  * 使用信息条的配置文件后，默认会出现在信息条左侧
 
 ==Broker_uClock==
+Broker 时间模块
+ * 使用信息条的配置文件后，默认会出现在信息条右侧
+
 ==Butsu==
+拾取框体美化
+ * 无设置
+ * 是否在鼠标位置打开窗口会继承 Blizzard 的默认界面设置
+
 ==ButtonFacade==
+动作条、Buff 按钮美化
+ * 首次使用需在插件标签中定义一下皮肤才能生效
+ * 本插件包自带 DsmFade 皮肤
+
 ==ButtonFacade_DsmFade==
+ButtonFacade 的一款皮肤
+ * 设置参考上面的插件
+
 ==CallOfElements==
+萨满的图腾助手插件
+ * 设置请使用斜杠命令 /coe 进行配置
+ * 非萨满职业建议在登陆界面中禁用此插件
+
 ==Carbonite==
+地图、任务增强
+ * 按 M 打开地图，右键点击任意区域选 Options 进入设置
+ * 第一次使用此插件包时建议不选择将 Carbonite 注入小地图，否则 SexyMap 无效
+
 ==CarboniteNodes==
 ==CarboniteTransfer==
 ==ccSpeed==
