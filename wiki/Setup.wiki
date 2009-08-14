@@ -313,20 +313,68 @@ FuBar 姓名切换插件，已使用 FuBar2Broker 插件整合到 Broker 模块�
  * 无设置
 
 ==Mendeleev==
+物品信息、物品来源插件
+ * 建议使用插件集合自带的 Mendeleev 插件配置文件
+ * 在插件标签中有该插件的详细设置
+
 ==MikScrollingBattleText==
-==MSBTOptions==
+战斗信息插件
+ * 建议使用插件集合中自带的 MikScrollingBattleText 插件配置文件
+ * 使用斜杠命令 /msbt 进行配置
+
 ==Multishot==
+自动截图插件，当升级时、获得成就时、击杀掉 Boss 时自动截图
+ * 在插件标签中有详细设置
+ * 副本狂建议关掉“击杀掉 Boss 时自动截图”的功能
+
 ==Nameplates==
+玩家、NPC 头上的姓名板增强
+ *
+
 ==Omen==
+仇恨统计插件
+ * 建议使用插件集合中自带的 Omen 插件配置文件
+ * 在插件标签下有详细设置
+
 ==oMirrorBars==
+美化默认的“呼吸”、“疲惫”计时条
+ * 无设置
+
 ==oUF==
+oUF 头像插件框架
+ * 无设置
+
 ==oUF_DebuffHighlight==
+oUF 高亮 Debuff 模块
+ * 无设置
+
 ==oUF_Experience==
+oUF 经验条插件
+ * 建议满级后禁用此插件
+ * 无设置
+
 ==oUF_P3lim==
+本插件集合使用的 oUF 头像 Layout
+ * 无设置
+
 ==oUF_Perfect==
+oUF 的团队框体模块
+ * 无设置
+
 ==oUF_RuneBar==
+oUF 的死亡骑士符文模块
+ * 无设置
+
 ==oUF_TotemBar==
+oUF 的萨满图腾模块
+ * 无设置
+
 ==Outfitter==
+一键换装插件
+ * 不可与暴雪自带的换装系统同时使用
+ * 想使用暴雪自带的换装系统请禁用此插件
+ * 插件可以在人物窗口的左上角找到（设置也在里面）
+
 ==Overachiever==
 ==Overachiever_Tabs==
 ==Overachiever_Trade==
