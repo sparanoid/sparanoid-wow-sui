@@ -4,7 +4,7 @@
 = 如何安装 (How to Install SUI) =
  * 先备份 Interface 文件夹
  * 从 [http://sparanoid.com/sui/ 插件首页] 下载最新的插件包
- * 使用 [http://7z.sparanoid.com 7-Zip] 或 WinRAR 打开此压缩包，将 Interface 文件夹解压到你的 WoW 安装目录中
+ * 使用 [http://7z.sparanoid.com 7-Zip] 或 WinRAR 打开此压缩包，将 Interface 文件夹解压到你的魔兽世界安装目录中
 
 = 如何使用插件的基础配置文件 (How to Use SUI Configuration Templates) =
  * 先备份 WTF 文件夹
