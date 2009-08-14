@@ -9,7 +9,7 @@
   * 解压压缩缩包内文件到该目录
 
 = 初次安装 (Setup) =
-==如果是第一次安装，请先务必按步骤执行==
+==如果是第一次安装，请务必修改下列插件的激活状态==
  * 打开登陆界面中的插件设置
  * 选择加载过期插件
  * 开启 DockingStation 与 DockingStation 插件（默认为关闭）
@@ -235,18 +235,26 @@ Deadly Boss Mod，战场计时、Raid 计时插件
  * 无设置
 
 ==FuBar_MoneyFu==
-Fubar 的金币统计插件，已使用 FuBar2Broker 插件整合到 Broker 模块中
+FuBar 的金币统计插件，已使用 FuBar2Broker 插件整合到 Broker 模块中
  * 使用信息条的配置文件后，默认会出现在信息条右侧
  * 无设置
 
 ==FuBar_NameToggleFu==
-Fubar 姓名切换插件，已使用 FuBar2Broker 插件整合到 Broker 模块中
+FuBar 姓名切换插件，已使用 FuBar2Broker 插件整合到 Broker 模块中
  * 使用信息条的配置文件后，默认会出现在信息条左侧
  * 无设置
 
 ==FuBar2Broker==
+将上述两款 FuBar 模块转换为 Broker 模块的插件
+ * 无设置
+
 ==GetOpt==
+部分插件须调用的 getopt() 函数插件
+ * 无设置
+
 ==Gladius==
+竞技场头像插件
+
 ==GlowFoSho==
 ==GoldenTicket==
 ==Gossipmonger==
