@@ -20,8 +20,8 @@
 = 初次安装后 (After Installing) =
 ==初次安装后，请务必修改下列插件的激活状态==
  * 打开登陆界面中的插件设置
- * 选择加载过期插件
- * 开启 DockingStation 与 DockingStation 插件（默认为关闭）
+ * 选择 *加载过期插件*
+ * *开启* DockingStation 与 DockingStation 插件（默认为关闭）
  * 关闭 oUF_Experience（经验条，满级则关闭）
  * Grid 与 oUF_Perfect 选择一个开启（看个人喜好，都开启不会冲突）
 
