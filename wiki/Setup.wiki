@@ -1,15 +1,22 @@
 #summary Sparanoid's UI 界面设置教程 (Setup)
 #labels Featured
 
-= 如何更新 (How to Update SUI) =
+= 如何安装 (How to Install SUI) =
 
 如果本插件集合更新了，该如何升级我现有的插件包？
   * 先去下载好最新版
   * 删除魔兽世界安装目录下 Interface\* 内的所有文件（可自行备份）
   * 解压压缩缩包内文件到该目录
 
-= 初次安装后.. (After Installing) =
-==如果是第一次安装，请务必修改下列插件的激活状态==
+= 如何更新 (How to Update) =
+
+如果本插件集合更新了，该如何升级我现有的插件包？
+  * 先去下载好最新版
+  * 删除魔兽世界安装目录下 Interface\* 内的所有文件（可自行备份）
+  * 解压压缩缩包内文件到该目录
+
+= 初次安装后 (After Installing) =
+==初次安装后，请务必修改下列插件的激活状态==
  * 打开登陆界面中的插件设置
  * 选择加载过期插件
  * 开启 DockingStation 与 DockingStation 插件（默认为关闭）
