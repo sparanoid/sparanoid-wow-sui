@@ -215,12 +215,35 @@ Deadly Boss Mod，战场计时、Raid 计时插件
  * 在按键绑定界面中可绑定快速观察的快捷键（例如把“观察鼠标划过的角色”快捷键设置为 alt+v）
 
 ==Fatality==
+死亡信息报告插件，在团队频道中输出死亡的角色，以及致死的技能
+ * 不喜欢的可以禁用此插件，无设置
+
 ==FishingAce==
+右键双击水面即可钓鱼
+ * 使用斜杠命令 /fa 或 /fishingace 进行设置
+
 ==FluidFrames==
+移动一些平时不可移动的窗口
+ * 在插件标签中有设置
+
 ==FramesResized==
+扩大商业技能、技能训练师等窗口的可视面积
+ * 在插件标签中有设置
+
 ==FriendsMenuXP==
+聊天窗口、玩家头像中的右键菜单增强
+ * 无设置
+
 ==FuBar_MoneyFu==
+Fubar 的金币统计插件，已使用 FuBar2Broker 插件整合到 Broker 模块中
+ * 使用信息条的配置文件后，默认会出现在信息条右侧
+ * 无设置
+
 ==FuBar_NameToggleFu==
+Fubar 姓名切换插件，已使用 FuBar2Broker 插件整合到 Broker 模块中
+ * 使用信息条的配置文件后，默认会出现在信息条左侧
+ * 无设置
+
 ==FuBar2Broker==
 ==GetOpt==
 ==Gladius==
