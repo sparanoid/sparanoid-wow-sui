@@ -190,16 +190,30 @@ Deadly Boss Mod，战场计时、Raid 计时插件
  * 无设置，不喜欢此功能的请禁用此插件
 
 ==Dominos==
-==Dominos_Cast==
-==Dominos_Config==
-==Dominos_Roll==
-==Dominos_Totems==
-==Dominos_XP==
+动作条插件
+ * 使用信息条的配置文件后，默认会出现在信息条左侧
+
 ==DurabilityStatus==
+装备耐久度插件。在人物窗口中显示总体装备的耐久度
+ * 在插件标签中有设置
+
 ==EasyTrinket==
+国产的简洁好用的饰品插件，新版本已支持 ButtonFacade
+ * 在插件标签中有设置
+
 ==Eggsactly==
+买蛋插件，包包里没蛋了自动提醒，孵化好了自动提醒
+ * 无设置，不喜欢此功能的需禁用此插件
+
 ==EnhancedCharStats==
+角色信息增强，提供一些数据的增强
+ * 无设置
+
 ==Examiner==
+人物观察增强，能快速观察任务天赋、成就、铭文等信息
+ * 直接在观察窗口中进行设置
+ * 在按键绑定界面中可绑定快速观察的快捷键（例如把“观察鼠标划过的角色”快捷键设置为 alt+v）
+
 ==Fatality==
 ==FishingAce==
 ==FluidFrames==
