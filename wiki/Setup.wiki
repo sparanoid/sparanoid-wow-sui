@@ -471,14 +471,28 @@ roll 点框体美化/增强
  * 建议使用插件集合中自带的 TipTac 插件配置文件
  * 使用斜杠命令 /tip 进行设置
 
-==TipTacItemRef==
-==TipTacOptions==
-==TipTacTalents==
 ==TooltipItemIcon==
+在鼠标提示中显示物品图标
+ * 斜杠命令 /ttii inside 设置图标在鼠标提示内侧
+ * 斜杠命令 /ttii gametooltip off 关闭图标显示
+ * 斜杠命令 /ttii gametooltip lefttop 将图标置于左上方
+ * 斜杠命令 /ttii reset 重置插件配置
+
 ==TweakWoW==
+魔兽世界设置微调工具
+ * 在插件面板中进行详细设置
+
 ==who_when_online==
+好友上线时自动执行查询命令（/who 好友名字）
+ * 无设置
+
 ==WhoPinged==
+在聊天窗口中输出谁在何时点击了小地图
+ * 无设置
+
 ==WhoWhisperedMe==
+有人密语时自动执行查询命令（/who 密语人名字）
+ * 无设置
 
 *插件定位/位置调整*
  * /align 使用此命令切换网格，方便插件对齐
