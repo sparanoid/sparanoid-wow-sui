@@ -9,7 +9,7 @@
 = 如何使用插件的基础配置文件 (How to Use SUI Configuration Templates) =
  * 先备份 WTF 文件夹
  * 从 [http://code.google.com/p/sparanoid/downloads/list 下载页面] 下载最新的配置文件
- * 将压缩包内的所有文件复制到 魔兽世界目录\WTF\Account\账号名称\SavedVariables\ 下，提示覆盖时选“是”
+ * 将压缩包内的所有文件复制到 *魔兽世界目录\WTF\Account\账号名称\SavedVariables\* 下，提示覆盖时选“是”
 
 = 如何更新 (How to Update) =
 如果本插件集合更新了，该如何升级我现有的插件包？
