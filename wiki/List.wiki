@@ -37,9 +37,6 @@
  * BetterStopwatch
  * BigRed
  * Bison
- * Blizzard_ArenaUI
- * Blizzard_DebugTools
- * Blizzard_GMChatUI
  * Broker_CPU
  * Broker_Factions
  * Broker_RaidSave
@@ -114,6 +111,8 @@
  * ImprovedMerchant
  * InFlight
  * InFlight_Load
+ * InlineAura
+ * InlineAura_Config
  * JPack
  * JPack_Broker
  * JPack_Ex
@@ -146,7 +145,6 @@
  * Recount
  * ResetEcho
  * RollTracker
- * SellFish
  * SexyMap
  * SmartMount
  * SpellAlerter
@@ -156,7 +154,6 @@
  * Talented
  * Talented_GlyphFrame
  * Talented_SpecTabs
- * tekAccept
  * tekJunkSeller
  * tekKompare
  * teksLoot
