@@ -3,6 +3,23 @@
 
 = 版本历史 (History) =
 
+==1.07==
+ * 更新插件：
+  * oUF_Experience
+  * Dominos
+  * Talented
+  * TinyTipWealth
+  * RollTracker
+  * AtlasLoot
+  * CallOfElements
+  * Guild2Guild
+  * teksLoot
+  * TipTac
+  * MailNotifier
+  * tekKompare
+ * 新增插件：
+  * InlineAura
+
 ==1.06==
  * 修正无法接受组队邀请的错误
  * 从此版本开始新增部分插件的配置文件，须单独下载
