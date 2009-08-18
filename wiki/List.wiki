@@ -173,4 +173,4 @@
 插件列表的更新说明
   * 上述插件列表仅为最新版本的列表
   * 旧版本删除的插件不会在这里显示
-  * 新增的插件不会在这里显示，详细更改内容请阅读更新日志或查看 [http://code.google.com/p/sparanoid/wiki/History 此页面]
+  * 新增的插件不会在这里特殊提示，详细更改内容请阅读更新日志或查看 [http://code.google.com/p/sparanoid/wiki/History 此页面]
