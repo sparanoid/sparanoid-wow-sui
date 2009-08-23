@@ -3,6 +3,18 @@
 
 = 版本历史 (History) =
 
+==1.08==
+ * 更新插件：
+  * SmartMount
+  * Decursive
+  * Recount
+  * oUF
+  * Outfitter
+  * oUF_Experience
+  * Multishot
+  * Tabard-o-matic
+  * _NPCScan
+
 ==1.07==
  * 更新插件：
   * oUF_Experience
