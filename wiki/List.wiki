@@ -34,6 +34,7 @@
  * Bagnon_Tooltips
  * BankStack
  * BaudAuction
+ * BetterInbox
  * BetterStopwatch
  * BigRed
  * Bison
