@@ -1,0 +1,191 @@
+#summary Sparanoid's UI 版本历史 (History)
+#labels Featured
+
+= 版本历史 (History) =
+
+==1.08==
+ * 更新插件：
+  * SmartMount
+  * Decursive
+  * Recount
+  * oUF
+  * Outfitter
+  * oUF_Experience
+  * Multishot
+  * Tabard-o-matic
+  * _NPCScan
+
+==1.07==
+ * 更新插件：
+  * oUF_Experience
+  * Dominos
+  * Talented
+  * TinyTipWealth
+  * RollTracker
+  * AtlasLoot
+  * CallOfElements
+  * Guild2Guild
+  * teksLoot
+  * TipTac
+  * MailNotifier
+  * tekKompare
+ * 新增插件：
+  * InlineAura
+
+==1.06==
+ * 修正无法接受组队邀请的错误
+ * 从此版本开始新增部分插件的配置文件，须单独下载
+ * 更新插件：
+  * TipTac
+  * Examiner
+  * DBM
+  * AtlasLoot
+  * WhoPinged
+  * Grid
+  * SmartMount
+  * BankStack
+ * 删除插件：
+  * tekAccept
+  * SellFish
+
+==1.05==
+ * 由于国服过于和谐与强大，暂时不考虑支持国服 3.1.3，等什么时候和世界同步了再说吧
+ * 更新插件：
+  * _Corpse
+  * _NPCScan
+  * ACP
+  * AHsearch
+  * Align
+  * AltTabber
+  * Ara_Broker_Tradeskills
+  * AtlasLoot
+  * AtlasLoot_BurningCrusade
+  * AtlasLoot_Crafting
+  * AtlasLoot_OriginalWoW
+  * AtlasLoot_WorldEvents
+  * AtlasLoot_WrathoftheLichKing
+  * AtlasLootFu
+  * AuctionLite
+  * AuldLangSyne
+  * AuldLangSyne_Backup
+  * AuldLangSyne_FriendList
+  * AuldLangSyne_Fu
+  * AuldLangSyne_GuildList
+  * AuldLangSyne_Info
+  * AuldLangSyne_Note
+  * AuldLangSyne_Panel
+  * AuldLangSyne_Sync
+  * Bagnon
+  * Bagnon_Config
+  * Bagnon_Forever
+  * Bagnon_Tooltips
+  * BetterStopwatch
+  * Broker_Factions
+  * Broker_RaidSave
+  * Broker_uClock
+  * ButtonFacade
+  * CallOfElements
+  * Carbonite
+  * CarboniteNodes
+  * CarboniteTransfer
+  * ccSpeed
+  * Chatter
+  * Clique
+  * CloseUp
+  * DBM-Battlegrounds
+  * DBM-ChamberOfAspects
+  * DBM-Coliseum
+  * DBM-Core
+  * DBM-EyeOfEternity
+  * DBM-GUI
+  * DBM-Naxx
+  * DBM-Party-WotLK
+  * DBM-Ulduar
+  * Decursive
+  * Dominos
+  * Dominos_Cast
+  * Dominos_Config
+  * Dominos_Roll
+  * Dominos_Totems
+  * Dominos_XP
+  * DurabilityStatus
+  * Eggsactly
+  * EnhancedCharStats
+  * Examiner
+  * Fatality
+  * FishingAce
+  * FramesResized
+  * FuBar_MoneyFu
+  * FuBar_NameToggleFu
+  * FuBar2Broker
+  * Gladius
+  * GoldenTicket
+  * Grid
+  * InFlight
+  * InFlight_Load
+  * MailNotifier
+  * Mendeleev
+  * MikScrollingBattleText
+  * MSBTOptions
+  * Multishot
+  * Omen
+  * oUF
+  * oUF_Experience
+  * oUF_P3lim
+  * oUF_RuneBar
+  * oUF_TotemBar
+  * Outfitter
+  * Overachiever
+  * Overachiever_Tabs
+  * Overachiever_Trade
+  * PanoShot
+  * Postal
+  * RangeColors
+  * Recount
+  * ResetEcho
+  * SmartMount
+  * SpellAlerter
+  * Tabard-o-matic
+  * Talented
+  * Talented_GlyphFrame
+  * Talented_SpecTabs
+  * TooltipItemIcon
+  * TweakWoW
+ * 删除插件：
+  * ChatBar
+  * IgnoreMore
+  * LiteLFG
+  * sienasGemViewer
+ * 新增插件：
+  * Eggsactly
+  * BetterStopwatch
+ * 插件新增的模块：
+  * Talented_GlyphFrame
+  * Talented_SpecTabs
+  * Dominos_Totems
+  * DBM-Coliseum
+
+==1.04==
+ * 更新插件：
+  * Chatter
+  * Gladius
+  * oUF_P3lim
+  * Carbonite
+  * Portfolio
+ * 新增插件：
+  * oUF_TotemBar
+ * 修正 Chatter 无法显示其它频道的错误
+
+==1.03==
+ * 更细大部分 3.0.5 版本中使用的插件，使之兼容 3.1.3
+
+==1.02==
+ * 部分插件更新
+
+==1.01==
+ * 更新第一版遗漏的插件
+
+==1.0==
+ * 第一版，原始版本
+
+----
