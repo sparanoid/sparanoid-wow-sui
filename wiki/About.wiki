@@ -1,0 +1,28 @@
+#summary Sparanoid's UI 关于页面 (About)
+#labels Featured
+
+= 介绍 (Introduction) =
+
+Sparanoid's UI，简称 SUI，是一款免费、自由的插件集合，均由本人从多款同类插件中精挑细选而得。它拥有如下特征：
+
+  * SUI 致力于为 中、高端玩家 提供功能全面的插件集合
+  * 组件全部从 [http://www.wowinterface.com/ WoWInterface]、[http://www.curseforge.com/ CurseForge]、[http://www.wowace.com/ WowAce] 等知名站点下载，保证安全性
+  * 插件大部分通过 SVN、Git 直接获取，保证插件最新
+  * 保证插件的原版：重新打包的插件全部未经修改
+  * 每日 3~5 小时 Debug 时间，保证插件稳定
+  * 插件下载通过 [http://code.google.com/p/sparanoid/ Google Code] 发布，快速稳定
+  *提供一些基本的插件配置下载 (WFT 配置文件)
+
+= 更新规则 (Updating Rules) =
+
+  * 我会在第一时间从 SVN/Git 上获取插件的最新 tag 版
+  * 我通常不会从 trunk 获取最新的 nightly build 版本或 alpha 版本
+  * 为保证稳定我们不会在第一时间内将更新的插件写入 SUI 的新版本，我会进行一些线上调试
+  * 在确认插件无问题后我们将新插件写入 SUI 的新版本，同时发布公告并提供下载
+  * 如个别更新的插件符合以下条件我们不会对其更新：
+   * 版本号更新 (TOC 更新)
+   * 非繁体中文的语言文件更新
+   * 我调试后确认新版本存在问题的插件
+   * 无严重错误的小更新 (例如代码优化、拼写错误、小调整)
+   * 更新的插件数量少于 3 个，且之前版本不存在严重问题 (Bug)
+  * 除新版本出现严重错误外，为保证插件使用者良好的游戏性，我不会在一天内多次更新
